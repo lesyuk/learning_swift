@@ -4,7 +4,7 @@ class A {
     
 }
 
-// Массива можно явно указать тип
+// У массива можно явно указать тип
 let array = Array<Int>()
 let array2 = [1, 2, 3, 4]
 let arrayStr = ["one", "two", "three"]
